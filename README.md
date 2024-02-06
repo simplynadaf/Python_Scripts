@@ -1,4 +1,4 @@
-# 🚀 AWS Lambda Functions: Production-Level Solutions 💭
+# 🚀 Python Scripts: Production-Level Solutions 💭
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/simplynadaf/lambda_functions.svg)](https://github.com/simplynadaf/lambda_functions/stargazers)

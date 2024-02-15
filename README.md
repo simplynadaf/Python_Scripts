@@ -33,4 +33,3 @@ Stay updated with new functions, improvements, and Lambda best practices by foll
 ### Connect with the Me
 
 Feel free to connect with me on [LinkedIn](https://in.linkedin.com/in/sarvar04) for discussions, questions, or collaboration opportunities.
-
